@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: snake-oil
+description: "A dark and gritty theme intead for the developer who wants a lightweight praticial theme."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
