@@ -4,6 +4,8 @@
 
 built for hack club's [tonic](https://tonic.hackclub.com) event
 
+i've always wanted a nice earthy theme for my personal website, so i figured i'd give it a go. this theme blends warm, neutral greens and browns to evoke a romantic/rustic image of the rough outdoors while maintaing a calming, natural look. 
+
 usage:
 run `gem install jekyll` then `jekyll serve` to see a preview of this template
 
