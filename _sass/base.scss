@@ -1,5 +1,18 @@
+/*
+    Primary color scheming yoinked from https://lospec.com/palette-list/ammo-8
+
+*/
+$dark: #040c06;
+$dark-background: #112318;
+$light-background: #1e3a29;
+$green: #305d42;
+$seafoam: #4d8061;
+$matcha: #89a257;
+$emphasis: #bedc7f;
+$white: #eeffcc; 
+
 body {
-    background-color: #000;
+    background-color: $dark-background;
     font-family: sans-serif;
     margin: auto;
     max-width: 70ch;
