@@ -22,21 +22,33 @@ body {
     font-family: sans-serif;
     margin: auto;
     max-width: 70ch;
-    
+    color: khaki;
     padding: 1rem;
 }
 h1 {
     color: $vine;
 }
 h2 {
-    color: rgba($vine, 0.8)
+    color: rgba($vine, 0.8);
+}
+h3 {
+    color: rgba($vine, 0.7);
+}
+h4 {
+    color: rgba($vine, 0.6);
+}
+h5 {
+    color: rgba($vine, 0.55);
+}
+h6 {
+    color: rgba($vine, 0.5);
 }
 p {
     color: $khaki;
 }
 hr {
-    color: $terracotta;
-    background-color: $terracotta;
+    color: $latte;
+    background-color: $latte;
     width: 50%;
     height: 0.33rem;
     border-radius: 16px;

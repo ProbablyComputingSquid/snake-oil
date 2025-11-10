@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "snake-oil"
-  spec.version = "0.1.0"
+  spec.version = "0.1.1"
   spec.authors = ["computingsquid"]
   spec.email = ["jay.is.coding@gmail.com"]
 
