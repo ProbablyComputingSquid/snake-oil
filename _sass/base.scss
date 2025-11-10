@@ -2,20 +2,49 @@
     Primary color scheming yoinked from https://lospec.com/palette-list/ammo-8
 
 */
-$dark: #040c06;
-$dark-background: #112318;
-$light-background: #1e3a29;
-$green: #305d42;
-$seafoam: #4d8061;
+$stiletto: #040c06;
+$mamba: #112318;
+$cobra: #1e3a29;
+$python: #305d42;
+$green-anaconda: #4d8061;
 $matcha: #89a257;
-$emphasis: #bedc7f;
-$white: #eeffcc; 
+$bush: #92d110;
+$vine: #bedc7f;
+$cream: #eeffcc; 
 
+$coffee: #582F0E;
+$terracotta: #7F4F24;
+$latte: #936639;
+$beige: #A68A64;
+$khaki: #B6AD90;
 body {
-    background-color: $dark-background;
+    background-color: $stiletto;
     font-family: sans-serif;
     margin: auto;
     max-width: 70ch;
-    color: #92d110;
+    
     padding: 1rem;
+}
+h1 {
+    color: $vine;
+}
+h2 {
+    color: rgba($vine, 0.8)
+}
+p {
+    color: $khaki;
+}
+hr {
+    color: $terracotta;
+    background-color: $terracotta;
+    width: 50%;
+    height: 0.33rem;
+    border-radius: 16px;
+}
+
+a {
+    color: $matcha;
+}
+a:visited {
+    color: $green-anaconda;
 }
